@@ -2,7 +2,7 @@
 
 # contact information
 * email:bartrn@mail.uc.edu
-*
+
 # Co-op Work Experience
 * Job title: material services/databasing inventory
 * company:Airborne maintenence and material services
