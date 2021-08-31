@@ -1,4 +1,4 @@
-# personal biography
+# Professional biography
 
 # contact information
 * email:bartrn@mail.uc.edu
